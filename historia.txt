@@ -6,5 +6,4 @@ Cada diretório de trabalho do Git é um repositório com um histórico completo
 acompanhamento das revisões. O Git também facilita a reprodutibilidade científica em uma ampla gama 
 de disciplinas.
 
-O Git é um software livre, distribuído sob os termos da versão 2 da GNU General Public License. 
-Sua manutenção é atualmente supervisionada por Junio Hamano. FIM
+O Git é um software livre, distribuído sob os termos da versão 2 da GNU General Public License.
