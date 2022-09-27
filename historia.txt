@@ -11,5 +11,4 @@ também facilita a reprodutibilidade científica em uma ampla gama de disciplina
 bioinformática, arqueologia à zoologia.[3]
 
 O Git é um software livre, distribuído sob os termos da versão 2 da GNU General Public License. 
-Sua manutenção é atualmente supervisionada por Junio Hamano. FIM
 
